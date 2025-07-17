@@ -19,5 +19,8 @@ Q: Can i contact you?
 
 A: Sure, go on: https://discord.gg/zhQWEWBEqG
 
+## Version with Guide (by sean & roadbobek)
+https://github.com/Roadbobek/GoreBox-Allahware.cc-hack-leak/
+
 # Thanks for reading.
 (Note: i'm not going to update it if it breaks, if you know how to fix it then feel free fix it yourself, do not ask me to do it.)
